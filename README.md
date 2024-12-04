@@ -4,6 +4,8 @@ Tired of playing 2D digital chess? Play 2D physical chess XD
 ## What's needed?
 3D printer, Filament(PLA), 100 Pcs coin magnets(Diameter: 6.00 mm, Height: 2.00mm)
 
+## Why did I make this?
+I wanted a physical chess board, but didn't want to pay 
 
 # Version 1.1
 The magnet slot was exactly 6.00 mm wide, which was too tight.
