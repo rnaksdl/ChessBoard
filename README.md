@@ -2,8 +2,8 @@
 Tired of playing 2D digital chess? Play 2D physical chess XD
 
 ## What's needed?
-3D printer, Filament(PLA), 100 Pcs coin magnets(Diameter: 6.00 mm, Height: 2.00mm)\n
-and nail clipper(???)
+3D printer, Filament(PLA), 100 Pcs coin magnets(Diameter: 6.00 mm, Height: 2.00mm)<br />
+and nail clipper(???)<br />
   I used a slanted edge nail clipper to remove extra filaments and that worked like a charm.
 
 ## Why did I make this?
