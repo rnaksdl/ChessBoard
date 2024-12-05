@@ -20,6 +20,11 @@ DO NOT TOUCH THE PRINTER WHILE PRINTING!!!!!!!!
   So I kept pausing and removing those, BUT that must have mess up the location of the plate or something..
     it was better to just leave the blobs.
 
+## in the future
+it might be cool to be able to take the board apart in 4 pieces for better storage
+  I might just cut mine 😳
+  the magenets will keep them together when stacked
+
 # Version 1.1
 The magnet slot was exactly 6.00 mm wide, which was too tight.
 My 3D printer trinted the slots as about 5.00 mm wide.
