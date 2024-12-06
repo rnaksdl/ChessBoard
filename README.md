@@ -1,5 +1,8 @@
 # ChessBoard
 Tired of playing 2D digital chess? Play 2D physical chess XD
+![top down view of the board](img/top_down.jpeg)
+![isometric view of the board](img/isometric.jpeg)
+
 
 ## What's needed?
 3D printer, Filament(PLA), 100 Pcs coin magnets(Diameter: 6.00 mm, Height: 2.00mm)<br />
